@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+html {
+    background-color: yellow;
+    text-align: center;
+}
+#noun {
+    background-color: purple;
+}
+#verb {
+    background-color: cyan;
+}
+#adj {
+    background-color: yellowgreen;
+}
+#nounTwo {
+    background-color: orange;
+}
+#numOfPlaces {
+    background-color: palevioletred;
+}
+#story {
+    background-color: teal;
+}
+#random {
+    background-color: red;
+}
